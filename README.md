@@ -1,2 +1,2 @@
 # AlgoritmaStrukturDataSms2
-matkul ASD
+pengumpulan matkul ASD  
